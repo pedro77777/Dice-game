@@ -2,7 +2,7 @@
 //this is a school project for UC Davis do not reuse for the purpose of plagiarising, this should be a learnign to and go 
 //ahead and play with this program as long as its not summited for a grade.
 
-//also U need Quartos in order to be able to properly open this files. I recomend to create a new project and the open this files after wasrd insted of just drag and drop in existing project since it might not work.
+//also U need Quartos in order to be able to properly open this files. I recommend to create a new project and the open this files after wards instead of just drag and drop in existing project since it might not work. 
 
 
 /*
